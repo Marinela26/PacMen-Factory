@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [Screenshots](#screenshots)
-* [General Info](#general-information)
+* [Introduction](#introduction)
 * [Technologies Used](#technologies-used)
 * [How to Run](#how-to-run)
 * [Future Improvement](#future-improvement)
@@ -15,7 +15,7 @@
 
 <img src="PacMan1.png" alt="PacMan" width="300" height="300">
 
-## General Information
+## Introduction
 
 
 ## Technologies Used
@@ -42,6 +42,8 @@ To do:
  ## License
  
 This project is available under the [MIT License](). 
+
+Please check full license document <a href="https://github.com/Marinela26/PacMen-Factory/blob/main/LICENSE">here</a>
 
 
 
