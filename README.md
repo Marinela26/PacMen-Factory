@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [Screenshots](#screenshots)
-* [Introduction](#introduction)
+* [Description](#description)
 * [Technologies Used](#technologies-used)
 * [How to Run](#how-to-run)
 * [Future Improvement](#future-improvement)
@@ -15,28 +15,32 @@
 
 <img src="PacMan1.png" alt="PacMan" width="300" height="300">
 
-## Introduction
+## Description
 
+Through this coding project a pacman is created on demand, every time the "Add PacMan" is clicked. It is moved at a random velocity across the screen. As the name of the exercise suggests, by clicking the button an infinite number of pacmen is created.
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- HTML5
+- CSS3
+- JavaScript
 
 
 ## How to Run
 
+* Clone this repository
+
+$ git clone https://github.com/Marinela26/PacMen-Factory.git
+
+* Go into the repository
+
+$ cd PacMen-Factory
+
 
 ## Future Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
 
-To do:
-- Feature to be added 1
-- Feature to be added 2
+- Add features in order to make the pacmen come from opposite side.
+- Add features in order to make the pacmen open and close the mouth.
 
 
  ## License
