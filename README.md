@@ -6,8 +6,8 @@
 * [Screenshots](#screenshots)
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [How to Run](#how to run)
-* [Future Improvement](#future improvement)
+* [How to Run](#how-to-run)
+* [Future Improvement](#future-improvement)
 * [License](#license)
 
 
