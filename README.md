@@ -6,8 +6,8 @@
 * [Screenshots](#screenshots)
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Setup](#setup)
-* [Room for Improvement](#room-for-improvement)
+* [How to Run](#how to run)
+* [Future Improvement](#future improvement)
 * [License](#license)
 
 
@@ -24,10 +24,10 @@
 - Tech 3 - version 3.0
 
 
-## Setup
+## How to Run
 
 
-## Room for Improvement
+## Future Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
@@ -41,7 +41,7 @@ To do:
 
  ## License
  
-This project is available under the [MiT License](). 
+This project is available under the [MIT License](). 
 
 
 
