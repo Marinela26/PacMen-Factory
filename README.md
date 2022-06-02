@@ -29,7 +29,7 @@ Through this coding project a pacman is created on demand, every time the "Add P
 
 * Clone this repository
 
-$ git clone https://github.com/Marinela26/PacMen-Factory.git
+$ git clone https://github.com/marinela-togoe/PacMen-Factory.git
 
 * Go into the repository
 
