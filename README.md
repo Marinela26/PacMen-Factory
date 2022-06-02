@@ -47,7 +47,7 @@ $ cd PacMen-Factory
  
 This project is available under the [MIT License](). 
 
-Please check full license document <a href="https://github.com/Marinela26/PacMen-Factory/blob/main/LICENSE">here</a>
+Please check full license document <a href="https://github.com/marinela-togoe/PacMen-Factory/blob/main/LICENSE">here</a>
 
 
 
