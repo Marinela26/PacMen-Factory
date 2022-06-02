@@ -1,6 +1,6 @@
 # PacMen-Factory
 
-<a href="https://marinela26.github.io/PacMen-Factory/">Demo here</a>
+<a href="https://marinela-togoe.github.io/PacMen-Factory/">Demo here</a>
 
 ## Table of Contents
 * [Screenshots](#screenshots)
